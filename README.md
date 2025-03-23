@@ -8,4 +8,4 @@ First, make sure you have Docker App installed on your machine. Then, install th
 ```bash
 pip install -r requirements.txt
 ```
-# can also visit my google cloud
+# stopped deploying to add some scraping
