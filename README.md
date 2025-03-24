@@ -9,3 +9,8 @@ First, make sure you have Docker App installed on your machine. Then, install th
 pip install -r requirements.txt
 ```
 # stopped deploying to add some scraping
+
+# also check live server here
+```bash
+https://my-flask-service-467966950852.asia-southeast1.run.app
+```
